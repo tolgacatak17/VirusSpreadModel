@@ -23,7 +23,7 @@ The model consists of 5 different subgroups of a population. In this model, all 
 The simplified mathematical model can be written with the following equations:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee6f4b46-4990-4c56-b65d-dbf9f146673c" alt="Differential Equations" width="600">
+  <img src="https://github.com/user-attachments/assets/ee6f4b46-4990-4c56-b65d-dbf9f146673c" alt="Differential Equations" width="400">
 </p>
 
 ---
@@ -31,7 +31,7 @@ The simplified mathematical model can be written with the following equations:
 ### Initial Conditions
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1ce75b31-437f-46f4-bbf3-346af715d736" alt="Initial Conditions" width="500">
+  <img src="https://github.com/user-attachments/assets/1ce75b31-437f-46f4-bbf3-346af715d736" alt="Initial Conditions" width="400">
 </p>
 
 ---
@@ -39,7 +39,7 @@ The simplified mathematical model can be written with the following equations:
 ### Time Period
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f99aac7-b9d7-4822-ac7c-5723b17ab506" alt="Time Period" width="500">
+  <img src="https://github.com/user-attachments/assets/1f99aac7-b9d7-4822-ac7c-5723b17ab506" alt="Time Period" width="450">
 </p>
 
 ---
