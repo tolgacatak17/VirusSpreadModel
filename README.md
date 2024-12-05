@@ -78,5 +78,5 @@ The solution is found as follows:
 
 ### Task
 
-The task is to solve the equations with different parameters to observe how they affect the outcome and to understand their impact on the progression of the pandemic.
+The task is to solve the equations using the **Runge-Kutta 4th Order (RK4)** method with different parameters to observe how they affect the outcome and to understand their impact on the progression of the pandemic.
 
