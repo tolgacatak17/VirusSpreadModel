@@ -4,9 +4,13 @@ This repository contains a project for the **Computer Applications Course (ME303
 
 ---
 
-## Mathematical Model
+## Problem Description
 
 The model simulates the progression of a virus in a population divided into five subgroups. It aims to analyze how key parameters influence the spread and eventual containment of the disease.
+
+---
+
+## Mathematical Model
 
 ### Groups
 
