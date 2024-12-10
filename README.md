@@ -67,11 +67,11 @@ The simulation runs over a predefined time period:
 
 The model uses the following parameters to define the interactions between the subgroups:
 
-- **c**: Encounter rate (e.g., 4 encounters/day).  
-- **β**: Transmission probability per encounter (e.g., 0.2).  
-- **α**: Rate at which exposed individuals become infectious (1/8 = 0.125 per day).  
-- **γ**: Rate at which infected individuals become symptomatic (1/10 = 0.1 per day).  
-- **ω**: Recovery rate (1/5 = 0.2 per day).  
+- **c**: Encounter rate.  
+- **β**: Transmission probability per encounter.  
+- **α**: Rate at which exposed individuals become infectious.  
+- **γ**: Rate at which infected individuals become symptomatic.  
+- **ω**: Recovery rate.  
 - **N<sub>bed</sub>**: Number of available hospital beds.
 
 ---
