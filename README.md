@@ -108,11 +108,11 @@ The task is to:
 
 This repository is organized as follows:
 
-1. **`code/`**: Contains the MATLAB script for simulating the virus spread model.
+1. **`figures/`**: Contains visualizations such as infection curves and population dynamics plots generated from the simulations.
 
-2. **`figures/`**: Contains visualizations such as infection curves and population dynamics plots generated from the simulations.
+2. **`report/`**: Contains a detailed report discussing the mathematical model, assumptions, numerical methods, and analysis of results.
 
-3. **`report/`**: Contains a detailed report discussing the mathematical model, assumptions, numerical methods, and analysis of results.
+3. **`src/`**: Contains the MATLAB script for simulating the virus spread model.
 
 4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the simulations and reproducing the results.
 
