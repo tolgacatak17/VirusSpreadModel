@@ -112,7 +112,7 @@ This repository is organized as follows:
 
 2. **`figures/`**: Contains visualizations such as infection curves and population dynamics plots generated from the simulations.
 
-3. **`report/`**: Includes a detailed report discussing the mathematical model, assumptions, numerical methods, and analysis of results.
+3. **`report/`**: Contains a detailed report discussing the mathematical model, assumptions, numerical methods, and analysis of results.
 
 4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the simulations and reproducing the results.
 
