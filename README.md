@@ -106,10 +106,11 @@ The task is to:
 
 ## Repository Structure
 
-1. **`code/`**: Contains MATLAB scripts for the RK4 implementation.
-   - `rk4_virus_spread.m`: Solves the equations using the RK4 method.
+1. **`code/`**: Contains the MATLAB script for simulating the virus spread model.
 
-2. **`results/`**: Contains solution plots and analysis.
-   - `population_dynamics.png`: Visualizes the progression of each population group.
+2. **`figures/`**: Contains visualizations such as infection curves and population dynamics plots generated from the simulations.
 
-3. **`README.md`**: This file, providing an overview of the project.
+3. **`report/`**: Includes a detailed report discussing the mathematical model, assumptions, numerical methods, and analysis of results.
+
+4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the simulations and reproducing the results.
+
